@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nextgentweaks",
+  "name": "NextGen Tweaks",
+  "description": "Providing additional integration",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AEnterprise"],
+  "credits": "Made by AEnterprise and AlexTheGre4t",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Buildcraft 6.0.16"]
+}
+]
